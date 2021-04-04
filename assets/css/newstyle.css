@@ -166,6 +166,24 @@ body{
     padding-left:45px;
     padding-top:20px;
 }
+.new-veh-cards-one{
+    display:flex;
+    align-items: center;
+    margin:10px;
+}
+.new-vehicle-title{
+    padding-left:45px;
+    padding-top:20px;
+}
+.training-title{
+    padding-left:45px;
+    padding-top:20px;
+}
+.training-cards-one{
+    display:flex;
+    align-items: center;
+    margin:10px;
+}
 
 
 
