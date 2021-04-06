@@ -203,7 +203,14 @@ body{
 
 
 
-
+.booking-title{
+    padding-left:45px;
+    padding-top:20px;
+}
+.booking-form{
+    padding-left:45px;
+    
+}
 
 
 
@@ -240,7 +247,7 @@ body{
 
 
 
-.news-title{
+.review-title{
     padding-left:45px;
     padding-top:20px;
 
