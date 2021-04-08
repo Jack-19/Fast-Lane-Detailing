@@ -271,3 +271,20 @@ body{
 
 
 
+
+
+.footer-sub{
+    margin:auto;
+}
+.social-links-footer{
+    margin:auto;
+}
+.bottom-links li{
+    display:inline;
+}
+.footer-links{
+    margin:auto;
+}
+.li a:hover {
+  background-color: #111111;
+}
