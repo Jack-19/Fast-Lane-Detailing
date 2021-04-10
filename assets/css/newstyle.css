@@ -1,12 +1,25 @@
 
 body{
-   width: 100%;
+    width: 100%;
     height: 100%;
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
+    background-color:black;
   
 }
+.line-across-page{
+      border-top: 2px solid white;
+      margin-left:45px;
+      margin-right:45px;
+      margin-top:15px;
+      color:white;
+  }
+  .line-across-page h6{
+      margin-left:35rem;
+      margin-right:20rem;
+  }
+  
 
 .nav-link{
 	color:black !important;
@@ -69,15 +82,18 @@ body{
   .about{
       height:80vh;
       max-width:100vw;
+      color:white;
+      font-family: 'RocknRoll One', sans-serif;
   }
   .about-title{
       padding-left:30px;
       padding-bottom: 10px;
+      padding-top:1rem;
   }
   .about-para-right{
       z-index:1;
       max-width:40ch;
-      margin:auto;
+      margin-left:-1rem;
   }
   .about-middle-section{
        display: flex;
@@ -89,6 +105,7 @@ body{
       z-index:1;
       max-width:40ch;
       padding-top:-20px;
+      margin-left:1rem;
   }
   .about-para-left-two{
       max-width:40ch;
@@ -103,12 +120,15 @@ body{
       height:10rem;
       padding-bottom:0.5rem;
   }
-  .line-across-page{
-      border-top: 2px solid black;
-      margin-left:45px;
-      margin-right:45px;
-      margin-top:100px;
+  
+  .about-background{
+      background-image:url(http://www.meguiars.co.uk/blog/wp-content/uploads/2014/10/20140809_094417_RichtoneHDR_resized.jpg);
+      background-color:#524D4B;
+      background-blend-mode: soft-light;
+
   }
+
+  
 	  
 	  
 	
@@ -152,45 +172,83 @@ body{
   background: rgba(0, 0, 0, 0.5); 
   color:rgb(253, 252, 252);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .valeting-title{
     padding-left:45px;
     padding-top:20px;
+    color:white;
 }
 .services-cards-one{
     display:flex;
     align-items: center;
     margin:10px;
+    background-image: linear-gradient(to right,black,white,black);
 }
 .card{
     border:2px solid black;
 
 }
+
+
+
+
+
+
 .detailing-cards-one{
     display:flex;
     align-items: center;
     margin:10px;
+    background-image: linear-gradient(to right,black,white,black);
 }
 .detailing-title{
     padding-left:45px;
     padding-top:20px;
+    color:white;
 }
+
+
+
+
+
 .new-veh-cards-one{
     display:flex;
     align-items: center;
     margin:10px;
+    background-image: linear-gradient(to right,black,white,black);
 }
 .new-vehicle-title{
     padding-left:45px;
     padding-top:20px;
+    color:white;
 }
+
+
+
 .training-title{
     padding-left:45px;
     padding-top:20px;
+    color:white;
 }
 .training-cards-one{
     display:flex;
     align-items: center;
     margin:10px;
+    background-image: linear-gradient(to right,black,white,black);
 }
 
 
@@ -218,6 +276,12 @@ body{
 .booking-form{
     padding-left:45px;
     
+}
+.booking-form-back{
+    background-image:url(https://i.ytimg.com/vi/WFob-1aWGCo/maxresdefault.jpg);
+    filter: blur();
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 
@@ -260,6 +324,26 @@ body{
     padding-top:20px;
 
 }
+.reviews-background{
+    background-image:url(https://media.istockphoto.com/photos/modern-blue-coupe-sports-car-in-showroom-picture-id1167559642?k=6&m=1167559642&s=612x612&w=0&h=tQ9yljuamIhu5gn2QqdS3U1Uc54fnaC7UDq0MRc3f3Q=);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.review{
+    color:gold;
+}
+.review-box{
+    position: relative;
+    background-color:grey;
+    opacity:80%;
+}
+.solid{
+    position: absolute;
+}
+
+
+
+
 
 
 
@@ -307,8 +391,48 @@ body{
 
 
 
-@media only screen and (max-width: 800px) {
-  div.services-section{
-      display:hidden;
-  }
+@media (max-width:800px) {
+    #carouselContainer {
+        display:none !important;
+    }
+}
+@media (max-width:800px){
+    .about-section{
+        display:block !important;
+
+    }
+}
+@media (max-width:800px){
+    body{
+        margin-left:0.5rem;
+    }
+}
+@media (max-width:800px){
+    .about-middle-section{
+        display:block;
+        margin:0;
+        margin-right:-45px;
+        box-sizing: none;
+    }
+    .about-section{
+        margin:0px;
+        margin-right:0px;
+    }
+}
+@media (max-width:800px){
+    .hide-mobile{
+        display:none;
+    }
+}
+@media (max-width:800px){
+    .mobile-view-pic{
+        height:20rem;
+        width:100%;
+        padding:0;
+        margin:0;
+    }
+    .about-para-right{
+        margin:0;
+        padding:0;
+    }
 }
