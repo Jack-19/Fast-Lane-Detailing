@@ -278,6 +278,8 @@ body{
 .booking-title{
     padding-left:45px;
     padding-top:20px;
+    font-family:'Zilla Slab Highlight', cursive;
+    color:white;
 }
 .booking-form{
     padding-left:45px;
@@ -296,6 +298,8 @@ body{
 .team-title{
     padding-left:45px;
     padding-top:20px;
+    font-family:'Zilla Slab Highlight', cursive;
+    color:white;
 }
 .team-photo{
     max-width:20vw;
