@@ -80,7 +80,7 @@ body{
 
 
   .about{
-      height:80vh;
+      height:100vh;
       max-width:100vw;
       color:white;
       font-family: 'RocknRoll One', sans-serif;
@@ -113,6 +113,7 @@ body{
   }
   .about-container{
       max-width:100vw;
+      height:100vh;
       
   }
   .center-about-image{
@@ -125,6 +126,8 @@ body{
       background-image:url(http://www.meguiars.co.uk/blog/wp-content/uploads/2014/10/20140809_094417_RichtoneHDR_resized.jpg);
       background-color:#524D4B;
       background-blend-mode: soft-light;
+      margin-left:45px;
+      margin-right:45px;
 
   }
 
@@ -141,7 +144,7 @@ body{
 	  
 	  
 .carousel .carousel-item {
-  height: 500px;
+  height:100vh;
 }
 
 .carousel-item img {
@@ -173,6 +176,11 @@ body{
   background: rgba(0, 0, 0, 0.5); 
   color:rgb(253, 252, 252);
 }
+.cara-link-button{
+    text-decoration: none;
+    color:black;
+    font-family:'RocknRoll One', sans-serif;
+}
 
 
 
@@ -203,7 +211,7 @@ body{
 }
 .card{
     border:2px solid black;
-    height:46em;
+    height:47em;
     width:4em;
     font-family: 'RocknRoll One', sans-serif;
 
@@ -281,21 +289,28 @@ body{
 .booking-title{
     padding-left:45px;
     padding-top:20px;
-    font-family:'Zilla Slab Highlight', cursive;
-    color:white;
+    font-family:'RocknRoll One', sans-serif;
+    
 }
 .booking-form{
     padding-left:45px;
-    font-family:'Zilla Slab Highlight', cursive;
-    color:white;
+    font-family:'RocknRoll One', sans-serif;
+    
     
 }
 .booking-form-back{
-    background-image:url(https://www.detailxperts.net/wp-content/uploads/2017/07/Exterior-Car-Detailing-Everything-You-Need-to-Know.jpg);
-    filter: blur();
+    background-color:white;
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    margin:45px;
 }
+
+.booking-image{
+    height:200px;
+    width:180px;
+    margin-left:45px;
+}
+
 
 
 
