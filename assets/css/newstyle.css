@@ -284,7 +284,7 @@ body{
     
 }
 .booking-form-back{
-    background-image:url(https://i.ytimg.com/vi/WFob-1aWGCo/maxresdefault.jpg);
+    background-image:url(https://www.detailxperts.net/wp-content/uploads/2017/07/Exterior-Car-Detailing-Everything-You-Need-to-Know.jpg);
     filter: blur();
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -332,6 +332,8 @@ body{
 .review-title{
     padding-left:45px;
     padding-top:20px;
+    font-family: 'Zilla Slab Highlight', cursive;
+    color:grey;
 
 }
 .reviews-background{
@@ -345,7 +347,7 @@ body{
 .review-box{
     position: relative;
     background-color:grey;
-    opacity:80%;
+    opacity:95%;
 }
 .solid{
     position: absolute;
@@ -362,6 +364,8 @@ body{
 .gallery-title{
      padding-left:45px;
     padding-top:20px;
+    font-family: 'Zilla Slab Highlight', cursive;
+    color:white;
 }
 .image-gallery{
     margin-left:45px;
