@@ -86,20 +86,18 @@ body{
       font-family: 'RocknRoll One', sans-serif;
   }
   .about-title{
-      padding-left:30px;
-      padding-bottom: 10px;
-      padding-top:1rem;
-  }
-  .about-para-right{
-      z-index:1;
-      max-width:40ch;
-      margin-left:-1rem;
-  }
-  .about-middle-section{
-       display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-  }
+      margin-left:2.813rem;
+      padding-top:2rem;
+      }
+  .center-text{
+          margin-top:6rem;
+      }
+
+ .first-para{
+     padding-top:2rem;
+ }
+      
+  
    .about-para-left{
       margin:auto;
       z-index:1;
@@ -128,20 +126,31 @@ body{
       background-blend-mode: soft-light;
       margin-left:45px;
       margin-right:45px;
-
-  }
+      background-size: 100%;
+      background-repeat: no-repeat;
+ }
+ .about-image{
+     height:12rem;
+     width:12rem;
+ }
+ .images-section{
+    padding-top:4rem;
+ }
+ .liat-margin{
+     padding-left:4.5rem;
+ }
+ .about-images-list li{
+     display:inline !important;
+     margin-left:1rem;
+     margin-right:1rem;
+     padding-top:2rem;
+ }
+ .about-images-list ul{
+     list-style-type: none;
+ }
 
   
-	  
-	  
-	
-	  
-	  
-	  
-	  
-	  
-	  
-	  
+
 	  
 .carousel .carousel-item {
   height:100vh;
@@ -419,6 +428,31 @@ body{
 }
 .footer-links-text{
     font-family:'RocknRoll One', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 850px){
+    .about-section{
+        display:inline;
+    }
+
 }
 
 
