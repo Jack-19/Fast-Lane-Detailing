@@ -27,7 +27,7 @@ body{
 .top-image{
 	background-image:url(https://www.autoguide.com/blog/wp-content/uploads/2018/09/best-pressure-washers.jpg);
 	height:350px;
-	width:100%;
+	width:100vw;
 	background-repeat:no-repeat;
     background-size:100% 100%;
     }
@@ -126,9 +126,10 @@ body{
       background-blend-mode: soft-light;
       margin-left:45px;
       margin-right:45px;
-      background-size: 100%;
+      background-size: cover;
       background-repeat: no-repeat;
  }
+
  .about-image{
      height:12rem;
      width:12rem;
@@ -448,15 +449,50 @@ body{
 
 
 
-@media only screen and (max-width: 850px){
-    .about-section{
-        display:inline;
+@media only screen and (max-width: 1201px){
+    .images-about-hide{
+        display:none;
+    }
+
+}
+@media only screen and (max-width: 992px){
+    .images-about-hide-2{
+        display:none;
+    }
+
+}
+@media only screen and (max-width: 767px){
+    .margin-none{
+        margin-top: 1rem;
+    }
+
+}
+@media only screen and (max-width: 1000px){
+    .fastlane{
+        display:none;
+    }
+
+}
+@media only screen and (max-width: 1000px){
+     .line-across-page{
+        margin:none;
     }
 
 }
 
 
+@media only screen and (max-width: 1000px){
+     .about-background{
+        margin:0;
+    }
+    .services-section{
+        margin:0;
+    }
+    .no-margin-3{
+        margin:0;
+    }
 
+}
 
 
 
