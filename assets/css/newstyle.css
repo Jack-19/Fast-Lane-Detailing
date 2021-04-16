@@ -241,6 +241,8 @@ body{
     align-items: center;
     margin:10px;
     background-image: linear-gradient(to right,black,white,black);
+    width:100vw;
+    height:contain;
 }
 .detailing-title{
     padding-left:45px;
@@ -491,7 +493,20 @@ body{
     .no-margin-3{
         margin:0;
     }
+}
 
+
+@media only screen and (max-width:889){
+    .card-columns{
+    display: block;
+    overflow: auto;
+}
+    .detailing-cards-one{
+    background-size:contain;
+}
+   .card{
+       display:inline-block;
+   }
 }
 
 
