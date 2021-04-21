@@ -25,7 +25,7 @@ body{
 }
 .top-image{
 	background-image:url(https://www.autoguide.com/blog/wp-content/uploads/2018/09/best-pressure-washers.jpg);
-	height:350px;
+	height:21.87rem;
 	width:100vw;
 	background-repeat:no-repeat;
     background-size:100% 100%;
@@ -111,6 +111,8 @@ body{
   .about-container{
       max-width:100vw;
       height:100vh;
+      margin:0;
+      padding:0;
       
   }
   .center-about-image{
