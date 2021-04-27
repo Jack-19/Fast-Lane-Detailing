@@ -541,17 +541,18 @@
     <div class="booking-title">
         <h5>Booking Request</h5>
     </div>
-<form method="post" action="https://formdump.codeinstitute.net/" class="booking-form">
+<form method="POST" action="https://formdump.codeinstitute.net/" class="booking-form">
     <div class="container">
     <div class="row align-items-start">
     <div class="col">
       <div class="mb-3">
     <label for="f-name" class="form-label">First Name:</label>
-    <input type="text" class="form-control" id="f-name" required>
+    <input type="text" name="f-name" class="form-control" id="f-name" required>
     </div>
     <div class="mb-3">
     <label for="l-name" class="form-label">Last Name:</label>
-    <input type="text" class="form-control" id="l-name" required>
+    <input type="text" name="l-name" class="form-control" id="l-name" required>
+    </div>
   </div>
   <div class="mb-3">
   <p>Service Required</p>
@@ -569,32 +570,35 @@
             <option value = "Five Day Group">Five Day Group</option>
             <option value = "One To One">One To One</option>
          </select>
-         </div>
+         
   </div>
   <div class="mb-3 form-check">
       
     <div class="col">
       <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Email address:</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" required>
+    <input type="email" name="email" class="form-control" id="exampleInputEmail1" required>
     </div>
     </div>
     <div class="mb-3">
     <label for="phone-number" class="form-label">Phone Number:</label>
-    <input type="number" class="form-control" id="phone-number" required>
+    <input type="number" name="phone" class="form-control" id="phone-number" required>
   </div>
   <div class="mb-3 form-check">
-    <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
+    <input type="checkbox" name="terms" class="form-check-input" id="exampleCheck1" required>
     <label class="form-check-label" for="exampleCheck1">Accept Terms & Conditions</label>
     <div class="form-text">We'll never share your information with anyone else.</div>
   </div>
   <button type="submit" class="btn btn-primary">Book Now!</button>
     </div>
+    </div>
+  </div>
+</div>
+</form> 
     <div class="col">
     <img class="booking-image" src="https://thumbs.dreamstime.com/b/car-wash-bucket-sponge-illustration-vector-cartoon-108064461.jpg">
     </div>
-  </div>
-</form>  
+   
   
 
 </section>
