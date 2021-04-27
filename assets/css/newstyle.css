@@ -130,6 +130,10 @@ body{
       background-size: cover;
       background-repeat: no-repeat;
  }
+ .white-text{
+     color:white;
+     font-family: 'RocknRoll One', sans-serif;
+ }
 
  .about-image{
      height:12rem;
@@ -457,6 +461,9 @@ body{
     .images-about-hide{
         display:none;
     }
+    .white-text{
+        display:none;
+    }
 
 }
 @media only screen and (max-width: 992px){
@@ -515,13 +522,14 @@ body{
 
 @media only screen and (max-width:1024){
     .about{
-        height:50vh;
+        max-height:50vh;
     }
     body{
         margin:0;
+        max-width:100vh;
     }
     .carousel .carousel-item{
-        height:50vh;
+        max-height:50vh;
     }
 }
 
