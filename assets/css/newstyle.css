@@ -335,8 +335,8 @@ body{
 .team-title{
     padding-left:45px;
     padding-top:20px;
-    font-family:'Zilla Slab Highlight', cursive;
-    color:white;
+    font-family:'Zen Dots', cursive;
+    color:black;
 }
 .team-photo{
     max-width:20vw;
@@ -357,7 +357,7 @@ body{
     padding:0;
 }
 .team-section{
-    background-image:linear-gradient(to right,black,white,black);
+    background-image:linear-gradient(to right,silver,white,silver);
     font-family: 'RocknRoll One', sans-serif;
 }
 
@@ -375,8 +375,8 @@ body{
 .review-title{
     padding-left:45px;
     padding-top:20px;
-    font-family: 'Zilla Slab Highlight', cursive;
-    color:grey;
+    font-family:'Zen Dots', cursive;
+    color:#b3b300;
 
 }
 .reviews-background{
