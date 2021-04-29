@@ -366,6 +366,9 @@ body{
     font-family: 'RocknRoll One', sans-serif;
 }
 
+.teamname{
+    text-decoration: underline;
+}
 
 
 
