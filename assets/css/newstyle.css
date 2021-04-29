@@ -87,6 +87,7 @@ body{
   .about-title{
       margin-left:2.813rem;
       padding-top:2rem;
+      font-family:'Zen Dots', cursive;
       }
   .center-text{
           margin-top:6rem;
@@ -216,6 +217,7 @@ body{
     padding-left:45px;
     padding-top:20px;
     color:white;
+    font-family:'Zen Dots', cursive;
 }
 .services-cards-one{
     display:flex;
@@ -253,6 +255,7 @@ body{
     padding-left:45px;
     padding-top:20px;
     color:white;
+    font-family:'Zen Dots', cursive;
 }
 
 
@@ -269,6 +272,7 @@ body{
     padding-left:45px;
     padding-top:20px;
     color:white;
+    font-family:'Zen Dots', cursive;
 }
 
 
@@ -277,6 +281,7 @@ body{
     padding-left:45px;
     padding-top:20px;
     color:white;
+    font-family:'Zen Dots', cursive;
 }
 .training-cards-one{
     display:flex;
