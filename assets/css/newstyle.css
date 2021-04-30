@@ -285,8 +285,6 @@ header{
     border-bottom:3px solid black;
 }
 
-
-
                                                 /* detailing cards section*/
 
 .detailing-cards-one{
@@ -404,28 +402,32 @@ header{
 
                                            /* review section*/
 
-.review-title{
-    padding-left:45px;
-    padding-top:20px;
-    font-family:'Zen Dots', cursive;
-    color:#b3b300;
-}
-
 .reviews-background{
     background-image:url(https://media.istockphoto.com/photos/modern-blue-coupe-sports-car-in-showroom-picture-id1167559642?k=6&m=1167559642&s=612x612&w=0&h=tQ9yljuamIhu5gn2QqdS3U1Uc54fnaC7UDq0MRc3f3Q=);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    margin-left:45px;
+    margin-right:45px;
+}
+
+.review-box-container{
+    height:800px;
+    padding-top:80px;
 }
 
 .review{
-    color:gold;
+    color:white;
     font-family: 'RocknRoll One', sans-serif;
+}
+
+.bottom-padding{
+    padding-bottom:5px;
 }
 
 .review-box{
     position: relative;
-    background-color:grey;
-    opacity:95%;
+    background-color:black;
+    opacity:80%;
 }
 
 .solid{
