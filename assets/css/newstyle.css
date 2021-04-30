@@ -1,4 +1,4 @@
-
+                            /* general / body css */
 body{
     width: 100%;
     height: 100%;
@@ -6,8 +6,8 @@ body{
     padding: 0px;
     overflow-x: hidden; 
     background-color:black;
-  
-}
+  }
+
 .line-across-page{
       border-top: 2px solid white;
       margin-left:45px;
@@ -15,44 +15,81 @@ body{
       margin-top:15px;
       color:white;
   }
+
   .line-across-page h6{
      text-align:center;
   }
-  
+
+                                          /* navbar top of page*/
+
+#navbarSupportedContent{
+    background-color: black;
+    padding:0;
+    margin:0;
+}
+
+header{
+    background-color: black;
+}
+
+.bg-light{
+    background-color: black!important;
+}
+
+.navbar{
+    padding:0;
+    background-color: black;
+}
+
+.navbar-brand{
+    padding:0!important;
+    background-color: black;
+    margin:0;
+}
 
 .nav-link{
-	color:black !important;
+	color:white!important;
 }
-.top-image{
-	background-image:url(https://www.autoguide.com/blog/wp-content/uploads/2018/09/best-pressure-washers.jpg);
-	height:21.87rem;
-	width:100vw;
-	background-repeat:no-repeat;
-    background-size:100% 100%;
-    }
-  .contact-top{
-	  color:black;
+
+.contact-top{
+    color:white;
+    background-color:black;
+    padding-top:0.5rem;
+    padding-left:0.5rem;
   }
-  .top-link:hover::after{
+
+.top-link:hover::after{
 	content: '';
 	display:block;
 	width:0;
 	height:2px;
 	transition: width .3s;
-	background:black;
+	background:white;
 }
 
 .top-link:hover::after{
      width:100%;
 	 transition:width .3s;
 }
-  .main-title{
+ 
+
+
+                                              /* hero image*/
+ .main-title{
 	  z-index:1;
 	  padding-top:40px;
 	  padding-left:20px;
 	  font-family: 'New Tegomin', serif;
 	  font-size:4em;
   }
+
+  .top-image{
+	background-image:url(https://www.autoguide.com/blog/wp-content/uploads/2018/09/best-pressure-washers.jpg);
+	height:21.87rem;
+	width:100vw;
+	background-repeat:no-repeat;
+    background-size:100% 100%;
+    }
   .title-intro{
 	  z-index:1;
 	  padding-left:20px;
