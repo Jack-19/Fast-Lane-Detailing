@@ -8,6 +8,11 @@ body{
     background-color:black;
 }
 
+.nothing{
+    padding:0!important;
+    margin:0!important;
+}
+
 .line-across-page{
       border-top: 2px solid white;
       margin-left:45px;
@@ -261,7 +266,7 @@ header{
     display:flex;
     align-items: center;
     margin:10px;
-    background-image: linear-gradient(to right,black,white,black);
+    background-color:white;
     font-family: 'RocknRoll One', sans-serif;
 }
 
@@ -291,7 +296,7 @@ header{
     display:flex;
     align-items: center;
     margin:10px;
-    background-image: linear-gradient(to right,black,white,black);
+    background-color:black;
     width:100vw;
     height:contain;
 }
@@ -309,7 +314,7 @@ header{
     display:flex;
     align-items: center;
     margin:10px;
-    background-image: linear-gradient(to right,black,white,black);
+    background-color:black;
 }
 
 .new-vehicle-title{
@@ -332,7 +337,7 @@ header{
     display:flex;
     align-items: center;
     margin:10px;
-    background-image: linear-gradient(to right,black,white,black);
+    background-color:black;
 }
 
                                                /* booking section*/
@@ -340,7 +345,12 @@ header{
 .booking-title{
     padding-left:45px;
     padding-top:20px;
-    font-family:'RocknRoll One', sans-serif;
+    font-family:'Zen Dots', cursive;
+}
+
+.button-image{
+    display:block;
+    margin:auto;
 }
 
 .booking-form{
@@ -348,17 +358,31 @@ header{
     font-family:'RocknRoll One', sans-serif;
 }
 
+.align-center{
+    text-align:center;
+    align-content: center;
+}
+
+.form-check-input{
+    position:relative!important;
+}
+
+.center{
+    padding-top:40px;
+}
+
 .booking-form-back{
-    background-color:white;
+    background-color:black;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin:45px;
+    color:white;
 }
 
 .booking-image{
     height:200px;
     width:180px;
-    margin-left:45px;
+    padding-top:3rem;
 }
 
                                           /* team section*/
@@ -403,6 +427,7 @@ header{
 .teamname{
     text-decoration: underline;
     text-align:center;
+    padding-top:1rem;
 }
 
                                            /* review section*/
