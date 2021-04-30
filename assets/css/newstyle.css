@@ -367,7 +367,7 @@ header{
     padding-left:45px;
     padding-top:20px;
     font-family:'Zen Dots', cursive;
-    color:black;
+    color:white;
 }
 
 .team-photo{
@@ -392,12 +392,17 @@ header{
 }
 
 .team-section{
-    background-image:linear-gradient(to right,silver,white,silver);
+    background-color:black;
     font-family: 'RocknRoll One', sans-serif;
+}
+
+.text-center{
+    text-align:center;
 }
 
 .teamname{
     text-decoration: underline;
+    text-align:center;
 }
 
                                            /* review section*/
@@ -439,7 +444,7 @@ header{
 .gallery-title{
      padding-left:45px;
     padding-top:20px;
-    font-family: 'Zilla Slab Highlight', cursive;
+    font-family:'Zen Dots', cursive;
     color:white;
 }
 
