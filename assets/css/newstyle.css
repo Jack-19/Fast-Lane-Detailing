@@ -438,6 +438,7 @@ header{
     background-size: cover;
     margin-left:45px;
     margin-right:45px;
+    margin-bottom:2rem;
 }
 
 .review-box-container{
@@ -460,6 +461,11 @@ header{
     opacity:80%;
 }
 
+.review-name{
+    padding-top:1rem;
+    padding-bottom:1rem;
+}
+
 .solid{
     position: absolute;
 }
@@ -475,6 +481,15 @@ header{
 .review-box-1-inline{
     margin-left:auto;
     margin-right:auto;
+}
+
+.review-container-padding{
+    padding-top:2rem;
+    padding-bottom:2rem;
+}
+
+.review-box-1{
+    padding-top:1.5rem;
 }
 
                                          /* gallery section*/
