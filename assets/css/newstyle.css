@@ -464,6 +464,11 @@ header{
     position: absolute;
 }
 
+.reviews-list li{
+    list-style-type:none;
+    display:inline;
+}
+
                                          /* gallery section*/
 
 .gallery-title{
