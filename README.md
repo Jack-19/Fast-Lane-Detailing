@@ -12,6 +12,9 @@ responsive and laid out clearly.
 I have altered the layout for many sections using Bootstrap via custom CSS to tweak how things are displayed.
 
 ## Design
+I firstly designed my project via wireframes to get an intial idea of how i wanted to lay my project out and which color scheme I was going to use.  
+
+
 
 ## Features
 - Social links (used to retain potential customers,
@@ -27,6 +30,7 @@ I have altered the layout for many sections using Bootstrap via custom CSS to tw
 - Devtools
 I have carried out comprehensive testing of my project before deployment.
 I firstly used dev tools to inspect the project, this enabled me to change devices and see how it would be displayed.
+![screenshot of dev tools](assets/images/devtoolstesting.png)
 It also gave me the ability to move the screen display and check. (make the page wider/thinner taller/shorter)
 - Devices
 I then opened the project on as many devices as I could get my hands on just to double check display of the project on different devices.  
@@ -35,6 +39,12 @@ Devices Used:
 - iphone 11
 - hp pavilion g series laptop
 - hp laptop
+With the project opened on each device I checked:  
+All images loaded correctly  
+All links worked correctly  
+Load time of page  
+Form works correctly (submitting correct data)  
+Modal displays correctly  
 
 
 ## Built Width:
@@ -73,6 +83,8 @@ Alternatively see the documentation on GitHub.
 - Font Awesome
 - Git Pod
 - Git Hub
+- Slack
+- 
 
 
 ## Contributors:
