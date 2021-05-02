@@ -464,9 +464,17 @@ header{
     position: absolute;
 }
 
-.reviews-list li{
-    list-style-type:none;
-    display:inline;
+.review-box-inline li{
+    display:inline-flex !important;
+    color:white;
+    padding-left:2rem;
+    padding-right:2rem;
+    max-width:50ch;
+}
+
+.review-box-1-inline{
+    margin-left:auto;
+    margin-right:auto;
 }
 
                                          /* gallery section*/
