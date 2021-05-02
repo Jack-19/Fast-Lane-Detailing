@@ -1,30 +1,42 @@
 # Fast Lane Detailing Website
 
-Here is a link to the live website.
-()
+Here is a link to the live project.  
+(https://jack-19.github.io/milestoneproject-car/)
 
-This website has been created as part of a Code Institute course. (diploma in software development)
+This website has been created as part of a Code Institute course. (Diploma in software development)
 This project is is my milestone one user centric frontend development.
 My first project has been created to advertise a vehicle detailing company. (fast lane detailing)
 The project has been mainly created using code supplied via bootstrap. This was done to ensure the project is
-responsive and laid out clearly.
+responsive and laid out clearly. I have altered the layout for many sections using Bootstrap via custom CSS to tweak how things are displayed.  
 
-I have altered the layout for many sections using Bootstrap via custom CSS to tweak how things are displayed.
+The main purpose of this project is to show information and allow potential customers to book a detailing service provided by fast lane detailing.  
+The project shows previous customer reviews and has a gallery of previous work carried out in order to gain trust from potential customers.
 
 ## Design
-I firstly designed my project via wireframes to get an intial idea of how i wanted to lay my project out and which color scheme I was going to use.  
-
+I firstly designed my project via wireframes to get an intial idea of how I wanted to lay my project out and which color scheme I was going to use.  
+Although my final project has changed slightly from the intital design the majority is the same. The color scheme I choose to use was a black and white theme throughout the project.  
+This enabled good contrast between the background and text. I feel it also gives a very professional look and feel to the project.   
+The first section I designed was the top / nav section:
+![wireframe of top section](assets/images/wireframetopsection.png)  
+The second section I designed:  
+![wireframe of about section](assets/images/aboutsectionwireframe.png)  
+This section was chnaged in the final project, the images were moved to the bottom of page  
+to enable better mobile viewing. 
 
 
 ## Features
 - Social links (used to retain potential customers,
   company updates via social media)
-
+- Online booking
 - Easy to navigate
 - Responsive design on all devices
 - Simple layout
-
-## Structure
+- Online enquiries
+## Structure  
+The structure of my project is slightly different from most others I found when carrying out research.  
+It mmostly differs from only having one page rather than links to various pages. I found by creating different sections  
+and creating links enabled the page to load quicker. This also enables quick navigation throughout the project rather than  
+loading pages each time a link is used. I believe this creates a better user experience and makes the project easy to use.
 
 ## Testing
 - Devtools
@@ -62,7 +74,11 @@ Used to create code, edit code and version control.
 ## Problems Encountered:
 I planned on having my service cards section displayed vertically 3 cards wide on desktop view and 1 card on mobile view.
 I found difficulty creating a card layout that was responsive how I planned. I overcome this problem via placing the cards code 
-inside a Bootstrap col/row code section. Thid created a responsive display for the service card section.
+inside a Bootstrap col/row code section. Thid created a responsive display for the service card section.  
+
+Another problem I have encountered was when the project was vieved on a mobile device the review section would overflow beyond the section.  
+This problem was resolved by using media queries to hide some reviews when on mobile view. i.e Only displaying three reviews on mobile view,  
+whereas six will be displayed on desktop view.
 
 
 ## Contributing:
@@ -84,13 +100,15 @@ Alternatively see the documentation on GitHub.
 - Git Pod
 - Git Hub
 - Slack
-- 
+
 
 
 ## Contributors:
-Jack Smith
-total90-@hotmail.com
+Jack Smith  
+total90-@hotmail.com  
+https://github.com/Jack-19
 
 ## Contact:
-Jack Smith
-total90-@hotmail.com
+Jack Smith  
+total90-@hotmail.com  
+https://github.com/Jack-19
