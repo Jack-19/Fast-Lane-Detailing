@@ -457,6 +457,7 @@ header{
 .review-box-container{
     height:800px;
     padding-top:80px;
+    margin:auto;
 }
 
 .review{
@@ -488,7 +489,7 @@ header{
     color:white;
     padding-left:2rem;
     padding-right:2rem;
-    max-width:50ch;
+    max-width:100%;
 }
 
 .review-box-1-inline{
@@ -499,10 +500,12 @@ header{
 .review-container-padding{
     padding-top:2rem;
     padding-bottom:2rem;
+    margin:auto;
 }
 
 .review-box-1{
     padding-top:1.5rem;
+    margin:auto;
 }
 
                                          /* gallery section*/
@@ -635,6 +638,17 @@ header{
     }
 }
 
+@media only screen and (max-width:391px){
+    .top-image{
+        text-align:center;
+    }
+    .main-title{
+        padding:0;
+    }
+    .review-box-inline li{
+        padding-left:0;
+    }
+}
 
 
 
