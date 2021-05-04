@@ -17,11 +17,7 @@ I firstly designed my project via wireframes to get an intial idea of how I want
 Although my final project has changed slightly from the intital design the majority is the same. The color scheme I choose to use was a black and white theme throughout the project.  
 This enabled good contrast between the background and text. I feel it also gives a very professional look and feel to the project.   
 The first section I designed was the top / nav section:
-![wireframe of top section](assets/images/wireframetopsection.png)  
-The second section I designed:  
-![wireframe of about section](assets/images/aboutsectionwireframe.png)  
-This section was chnaged in the final project, the images were moved to the bottom of page  
-to enable better mobile viewing. 
+
 
 
 ## Features
@@ -122,3 +118,44 @@ https://github.com/Jack-19
 Jack Smith  
 total90-@hotmail.com  
 https://github.com/Jack-19
+
+
+## Wireframes:
+
+Final Design:
+![wireframe of site](assets/images/wireframe-main-image.png)
+Top Section:
+![wireframe of top section](assets/images/wireframetopsection.png)
+![wireframe of top section mobile view](assets/images/topandabout-section-wireframe-mobile.png)
+
+Valeting Section:
+![wireframe of valeting section](assets/images/valeting-section-cards-wireframe.png)
+![wireframe of valeting section mobile](assets/images/valeting-section-wireframe-mobile.png)
+
+Detailing Section:
+![wireframe of detailing section](assets/images/detailing-section-cards-wireframe.png)
+![wireframe of detailing section mobile](assets/images/detailing-section-wireframe-mobile.png)
+
+New Vehicle Section:
+![wireframe of new vehicle section](assets/images/newcar-section-cards-wireframe.png)
+![wireframe of new vehicle section mobile](assets/images/newvehicle-section-wireframe-mobile.png)
+
+Training Section:
+![wireframe of training section](assets/images/training-section-cards-wireframe.png)
+![wireframe of training section mobile](assets/images/training-section-wireframe-mobile.png)
+
+Our Team Section:
+![wireframe of our team section](assets/images/ourteam-section-cards-wireframe.png)
+![wireframe of our team section mobile](assets/images/ourteam-section-wireframe-mobile.png)
+
+Reviews Section:
+![wireframe of reviews section](assets/images/review-section-wireframe.png)
+![wireframe of reviews section mobile](assets/images/review-section-wireframe-mobile.png)
+
+Booking Section:
+![wireframe of booking section](assets/images/booking-section-wireframe.png)
+![wireframe of booking section mobile](assets/images/booking-section-wireframe-mobile.png)
+
+Footer Section:
+![wireframe of footer section](assets/images/footer-section-wireframe.png)
+![wireframe of footer section mobile](assets/images/footer-wireframe-mobile.png)
