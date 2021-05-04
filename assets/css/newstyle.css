@@ -620,6 +620,13 @@ header{
     }
 }
 
+@media only screen and (max-width:858px){
+    .booking-form{
+        padding-left:1rem;
+        padding-right:1rem;
+    }
+}
+
 
 
 
