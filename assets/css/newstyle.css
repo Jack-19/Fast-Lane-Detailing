@@ -33,6 +33,19 @@ body{
     margin:0;
 }
 
+.dropdown-menu{
+    background-color:black;
+    color:white;
+}
+
+.dropdown-item{
+    color:white;
+}
+
+.navbar-toggler-icon{
+    background-color:white;
+}
+
 header{
     background-color: black;
 }

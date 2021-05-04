@@ -31,7 +31,14 @@ to enable better mobile viewing.
 - Easy to navigate
 - Responsive design on all devices
 - Simple layout
-- Online enquiries
+- Online enquiries  
+
+## Featesures To Add
+As part of this project I created a Bootstrap courosel with four images, links and a brief description. I have since decided to leave it out of this project  
+due to it not fitting in correctly with the flow of the page. For now I have commented out the courosel so it will not be displayed, however I beileve it is a   
+a good/ cool feature that I would like to add back in, in the future. I think it could possibly replace the hero image to allow the potential cusomters or users  
+of the website to see what services are avalible as soon as they load the page.
+
 ## Structure  
 The structure of my project is slightly different from most others I found when carrying out research.  
 It mmostly differs from only having one page rather than links to various pages. I found by creating different sections  
@@ -78,7 +85,10 @@ inside a Bootstrap col/row code section. Thid created a responsive display for t
 
 Another problem I have encountered was when the project was vieved on a mobile device the review section would overflow beyond the section.  
 This problem was resolved by using media queries to hide some reviews when on mobile view. i.e Only displaying three reviews on mobile view,  
-whereas six will be displayed on desktop view.
+whereas six will be displayed on desktop view.  
+
+While using a Bootstrap navigation bar code I encountered a problem where when viewed on mobile view the color of the nav icon would clash with the background color.  
+I overrode the Bootstrap CSS in my own CSS to change the color of the icon to white.
 
 
 ## Contributing:
