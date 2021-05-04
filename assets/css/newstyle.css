@@ -431,6 +431,7 @@ header{
 .team-section{
     background-color:black;
     font-family: 'RocknRoll One', sans-serif;
+    background-size:cover;
 }
 
 .text-center{
@@ -648,6 +649,17 @@ header{
     .review-box-inline li{
         padding-left:0;
     }
+    .card{
+        height:100%;
+    }
+    .col-sm{
+        display:flex;
+        justify-content: center;
+    }
+    .review-container-padding{
+        margin-top:20px;
+    }
+    
 }
 
 
