@@ -149,7 +149,6 @@ header{
     margin:auto;
     z-index:1;
     max-width:40ch;
-    padding-top:-20px;
     margin-left:1rem;
 }
 
@@ -311,7 +310,7 @@ header{
     margin:10px;
     background-color:black;
     width:100vw;
-    height:contain;
+    height:100vw;
 }
 
 .detailing-title{
@@ -573,7 +572,7 @@ header{
 
 @media only screen and (max-width: 1000px){
      .line-across-page{
-        margin:none;
+        margin:0;
     }
 }
 
@@ -589,7 +588,7 @@ header{
     }
 }
 
-@media only screen and (max-width:889){
+@media only screen and (max-width:889px){
     .card-columns{
     display: block;
     overflow: auto;
