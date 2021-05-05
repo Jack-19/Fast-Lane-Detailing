@@ -12,6 +12,13 @@ responsive and laid out clearly. I have altered the layout for many sections usi
 The main purpose of this project is to show information and allow potential customers to book a detailing service provided by fast lane detailing.  
 The project shows previous customer reviews and has a gallery of previous work carried out in order to gain trust from potential customers.
 
+## Main Goal Of project
+- Provide information on company.
+- Provide information on services avaliable.
+- Show off previous work via image gallery.
+- Show previous customers reviews of company
+
+
 ## Design
 I firstly designed my project via wireframes to get an intial idea of how I wanted to lay my project out and which color scheme I was going to use.  
 Although my final project has changed slightly from the intital design the majority is the same. The color scheme I choose to use was a black and white theme throughout the project.  
