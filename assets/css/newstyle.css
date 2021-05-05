@@ -666,6 +666,9 @@ header{
     .title-intro{
         padding-left:0;
     }
+    .col-sm{
+        padding-bottom:2rem;
+    }
 }
 
 
