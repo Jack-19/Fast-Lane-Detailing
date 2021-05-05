@@ -122,40 +122,13 @@ https://github.com/Jack-19
 
 ## Wireframes:
 
-Final Design:
+Final Design:  
 ![wireframe of site](assets/images/wireframe-main-image.png)
-Top Section:
-![wireframe of top section](assets/images/wireframetopsection.png)
-![wireframe of top section mobile view](assets/images/topandabout-section-wireframe-mobile.png)
 
-Valeting Section:
-![wireframe of valeting section](assets/images/valeting-section-cards-wireframe.png)
-![wireframe of valeting section mobile](assets/images/valeting-section-wireframe-mobile.png)
-
-Detailing Section:
-![wireframe of detailing section](assets/images/detailing-section-cards-wireframe.png)
-![wireframe of detailing section mobile](assets/images/detailing-section-wireframe-mobile.png)
-
-New Vehicle Section:
-![wireframe of new vehicle section](assets/images/newcar-section-cards-wireframe.png)
-![wireframe of new vehicle section mobile](assets/images/newvehicle-section-wireframe-mobile.png)
-
-Training Section:
-![wireframe of training section](assets/images/training-section-cards-wireframe.png)
-![wireframe of training section mobile](assets/images/training-section-wireframe-mobile.png)
-
-Our Team Section:
-![wireframe of our team section](assets/images/ourteam-section-cards-wireframe.png)
-![wireframe of our team section mobile](assets/images/ourteam-section-wireframe-mobile.png)
-
-Reviews Section:
-![wireframe of reviews section](assets/images/review-section-wireframe.png)
-![wireframe of reviews section mobile](assets/images/review-section-wireframe-mobile.png)
-
-Booking Section:
-![wireframe of booking section](assets/images/booking-section-wireframe.png)
-![wireframe of booking section mobile](assets/images/booking-section-wireframe-mobile.png)
-
-Footer Section:
-![wireframe of footer section](assets/images/footer-section-wireframe.png)
-![wireframe of footer section mobile](assets/images/footer-wireframe-mobile.png)
+Desktop View:    
+![wire frame of site desktop view](assets/images/desktop-wireframe.png)  
+Tablet View:  
+![wireframe of site tablet view](assets/images/tablet-wireframe.png)  
+Mobile View:  
+![wireframe of site mobile view](assets/images/mobile-wireframe-one.png)  
+![wireframe of site mobile view](assets/images/mobile-wireframe-two.png)
