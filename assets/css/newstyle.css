@@ -662,6 +662,12 @@ header{
     
 }
 
+@media only screen and (max-width:407px){
+    .title-intro{
+        padding-left:0;
+    }
+}
+
 
 
 
