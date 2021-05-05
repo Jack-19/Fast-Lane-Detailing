@@ -16,9 +16,18 @@ The project shows previous customer reviews and has a gallery of previous work c
 I firstly designed my project via wireframes to get an intial idea of how I wanted to lay my project out and which color scheme I was going to use.  
 Although my final project has changed slightly from the intital design the majority is the same. The color scheme I choose to use was a black and white theme throughout the project.  
 This enabled good contrast between the background and text. I feel it also gives a very professional look and feel to the project.   
-The first section I designed was the top / nav section:
 
-
+## User stories  
+- As a potential new customer to the website I want to read about avaliable services so I can choose a service to book.
+- As a potential new cusotmer to the website I want to find the booking section so I can book a service.
+- As a potential new customer to the website I want to read about previous customers experiences so I can decide to use the company or not.
+- As a new user of the website I want to be able to navigate the project easiy and quickly to find information I need so I can contact the company.
+- As a returning user / customer I want to find contact information quickly so I can arrange a booking fast without scrolling.
+- As a potential customer I want to see images of previous work carried out so I can be sure to trust this company.
+- As a vehicle owner I want to follow the company on social media so I can keep up to date.
+- As a customer I want to enquire online fast so I can get my booking arranged.
+- As a new visitor to the website I want to be able to use links to navigate the website fast so I can see the whole website fast.
+- As a potential owner of the website I want to be able to add more features in the future so I can improve my project.
 
 ## Features
 - Social links (used to retain potential customers,
@@ -33,7 +42,9 @@ The first section I designed was the top / nav section:
 As part of this project I created a Bootstrap courosel with four images, links and a brief description. I have since decided to leave it out of this project  
 due to it not fitting in correctly with the flow of the page. For now I have commented out the courosel so it will not be displayed, however I beileve it is a   
 a good/ cool feature that I would like to add back in, in the future. I think it could possibly replace the hero image to allow the potential cusomters or users  
-of the website to see what services are avalible as soon as they load the page.
+of the website to see what services are avalible as soon as they load the page.  
+I would also like to add a new section showing prices of avaliable services, this could be easily added by creating a new section and keeping to the same themes. I.E 
+background color, font stye and size and layout.
 
 ## Structure  
 The structure of my project is slightly different from most others I found when carrying out research.  
