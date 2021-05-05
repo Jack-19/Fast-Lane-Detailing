@@ -1,4 +1,4 @@
-                            /* general / body css */
+/*************************************************************** general / body css */
 body{
     width: 100%;
     height: 100%;
@@ -25,7 +25,7 @@ body{
      text-align:center;
 }
 
-                                          /* navbar top of page*/
+/***************************************************************** navbar top of page*/
 
 #navbarSupportedContent{
     background-color: black;
@@ -92,7 +92,8 @@ header{
  
 
 
-                                              /* hero image*/
+/**************************************************************************** hero image*/
+
 .main-title{
 	  z-index:1;
 	  padding-top:2.5rem;
@@ -122,7 +123,7 @@ header{
 	z-index:1;
 }
 
-                                                /* about section*/
+/******************************************************************************** about section*/
 
 .about{
     height:43.75rem;
@@ -218,9 +219,8 @@ header{
    font-family:'Zen Dots', cursive; 
 }
 
-                                             /* carousel section*/ 
+/*************************************************************************** carousel section*/ 
 
-	  
 .carousel .carousel-item {
   height:100vh;
 }
@@ -263,7 +263,7 @@ header{
     font-family:'RocknRoll One', sans-serif;
 }
 
-                                         /* valeting cards section*/
+/***************************************************************************** valeting cards section*/
 
 .valeting-title{
     padding-left:2.813rem;
@@ -272,7 +272,7 @@ header{
     font-family:'Zen Dots', cursive;
 }
 
-                                            /* general cards section*/
+/*********************************************************************************** general cards section*/
 
 .services-cards-one{
     display:flex;
@@ -302,7 +302,7 @@ header{
     border-bottom:3px solid black;
 }
 
-                                                /* detailing cards section*/
+/******************************************************************************** detailing cards section*/
 
 .detailing-cards-one{
     display:flex;
@@ -320,7 +320,7 @@ header{
     font-family:'Zen Dots', cursive;
 }
 
-                                               /* new vehicle cards section*/
+/****************************************************************************** new vehicle cards section*/
 
 .new-veh-cards-one{
     display:flex;
@@ -336,7 +336,7 @@ header{
     font-family:'Zen Dots', cursive;
 }
 
-                                               /* training cards section*/
+/*********************************************************************************** training cards section*/
 
 .training-title{
     padding-left:45px;
@@ -352,7 +352,7 @@ header{
     background-color:black;
 }
 
-                                               /* booking section*/
+/***************************************************************************************** booking section*/
 
 .booking-title{
     padding-left:2.813rem;
@@ -398,7 +398,7 @@ header{
     padding-top:3rem;
 }
 
-                                          /* team section*/
+/**************************************************************************************** team section*/
 
 .team-title{
     padding-left:45px;
@@ -444,7 +444,7 @@ header{
     padding-top:1rem;
 }
 
-                                           /* review section*/
+/**************************************************************************************** review section*/
 
 .reviews-background{
     background-image:url(https://media.istockphoto.com/photos/modern-blue-coupe-sports-car-in-showroom-picture-id1167559642?k=6&m=1167559642&s=612x612&w=0&h=tQ9yljuamIhu5gn2QqdS3U1Uc54fnaC7UDq0MRc3f3Q=);
@@ -509,7 +509,7 @@ header{
     margin:auto;
 }
 
-                                         /* gallery section*/
+/*************************************************************************************** gallery section*/
 
 .gallery-title{
      padding-left:45px;
@@ -523,7 +523,7 @@ header{
     margin-right:45px;
 }
 
-                                         /* footer section*/
+/********************************************************************************************* footer section*/
 
 .footer-sub{
     margin:auto;
@@ -545,7 +545,7 @@ header{
     font-family:'RocknRoll One', sans-serif;
 }
 
-                                            /* media queries section*/
+/********************************************************************************* media queries section*/
 
 @media only screen and (max-width: 1201px){
     .images-about-hide{
