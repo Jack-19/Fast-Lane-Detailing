@@ -31,24 +31,40 @@ will not lose any customers due to not being able to use the navigation effectiv
 
 ## User stories  
 - As a potential new customer to the website I want to read about avaliable services so I can choose a service to book.
+![screenshot of avaliable services](assets/images/avaliable-services.png)
 - As a potential new cusotmer to the website I want to find the booking section so I can book a service.
+![screenshot of booking section](assets/images/booking-section.png)
 - As a potential new customer to the website I want to read about previous customers experiences so I can decide to use the company or not.
+![screenshot of reviews section](assets/images/review-section.png)
 - As a new user of the website I want to be able to navigate the project easiy and quickly to find information I need so I can contact the company.
+![screenshot of navigation](assets/images/navigation.png)
 - As a returning user / customer I want to find contact information quickly so I can arrange a booking fast without scrolling.
+![screenshot of contact info](assets/images/contact.png)
 - As a potential customer I want to see images of previous work carried out so I can be sure to trust this company.
+![screenshot of gallery section](assets/images/gallery.png)
 - As a vehicle owner I want to follow the company on social media so I can keep up to date.
+![screenshot of social links](asstes/images/social.png)
 - As a customer I want to enquire online fast so I can get my booking arranged.
-- As a new visitor to the website I want to be able to use links to navigate the website fast so I can see the whole website fast.
-- As a potential owner of the website I want to be able to add more features in the future so I can improve my project.
+![screenshot of enquire button](assets/images/enquirebutton.png)
+- As a customer I want to be able to sign up to a news letter so I can keep up to date with the company.
+![screenshot of signup](assets/images/signup.png)
+- As a car owner I want to know what else the company can offer me so I can choose to use them.
+![screenshot of training](assets/images/training.png)
 
 ## Features
 - Social links (used to retain potential customers,
   company updates via social media)
 - Online booking
+  Online booking form and enquire form
 - Easy to navigate
+  Simply scroll through the whole page and see all avaliable information
 - Responsive design on all devices
+  Website avaliable to view on desktop, tablet and mobile devices
 - Simple layout
+  Layout that encourages the user the scroll 
+  Consistant layout to prevent poor user experience
 - Online enquiries  
+  Submit enquiries from the home section without the need to look for enquiry section.
 
 ## Featesures To Add
 As part of this project I created a Bootstrap courosel with four images, links and a brief description. I have since decided to leave it out of this project  
@@ -60,9 +76,11 @@ background color, font stye and size and layout.
 
 ## Structure  
 The structure of my project is slightly different from most others I found when carrying out research.  
-It mmostly differs from only having one page rather than links to various pages. I found by creating different sections  
+It mostly differs from only having one page rather than links to various pages. I found by creating different sections  
 and creating links enabled the page to load quicker. This also enables quick navigation throughout the project rather than  
-loading pages each time a link is used. I believe this creates a better user experience and makes the project easy to use.
+loading pages each time a link is used. I believe this creates a better user experience and makes the project easy to use. Each section is designed to
+fill the screen height up to 100% this encourages the user to scroll and see more information which they may have missed. I feel this could possibly encourage a new user
+to make a booking or enquire about a service.
 
 ## Testing
 - Devtools
