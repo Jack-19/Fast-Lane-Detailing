@@ -22,7 +22,12 @@ The project shows previous customer reviews and has a gallery of previous work c
 ## Design
 I firstly designed my project via wireframes to get an intial idea of how I wanted to lay my project out and which color scheme I was going to use.  
 Although my final project has changed slightly from the intital design the majority is the same. The color scheme I choose to use was a black and white theme throughout the project.  
-This enabled good contrast between the background and text. I feel it also gives a very professional look and feel to the project.   
+This enabled good contrast between the background and text. I feel it also gives a very professional look and feel to the project.  
+My main goal when designing this project was to ensure a good user experience, when carrying out research before starting this project I found other car cleaning companies have
+very poor websites. This could be due to poor navigation or just a confusing layout.  
+Therefore I wanted a simple layout with one contiuous page to allow the user to simply scroll through all required information without need to do anything other than scroll.
+Due to this unique design anyone can easiy navigate the website. This will also support indiviuals who have very little experience using computers or the internet, this ensures the conpmay
+will not lose any customers due to not being able to use the navigation effectively.    
 
 ## User stories  
 - As a potential new customer to the website I want to read about avaliable services so I can choose a service to book.
