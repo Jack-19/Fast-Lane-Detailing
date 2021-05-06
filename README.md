@@ -13,10 +13,11 @@ The main purpose of this project is to show information and allow potential cust
 The project shows previous customer reviews and has a gallery of previous work carried out in order to gain trust from potential customers.
 
 ## Main Goal Of project
+- Create online presents for company.
 - Provide information on company.
 - Provide information on services avaliable.
 - Show off previous work via image gallery.
-- Show previous customers reviews of company
+- Show previous customers reviews of company.
 
 
 ## Design
@@ -46,11 +47,13 @@ will not lose any customers due to not being able to use the navigation effectiv
 
 ## Featesures To Add
 As part of this project I created a Bootstrap courosel with four images, links and a brief description. I have since decided to leave it out of this project  
-due to it not fitting in correctly with the flow of the page. For now I have commented out the courosel so it will not be displayed, however I beileve it is a   
+due to it not fitting in correctly with the flow of the page. For now I have removed the courosel so it will not be displayed, however I beileve it is a   
 a good/ cool feature that I would like to add back in, in the future. I think it could possibly replace the hero image to allow the potential cusomters or users  
 of the website to see what services are avalible as soon as they load the page.  
 I would also like to add a new section showing prices of avaliable services, this could be easily added by creating a new section and keeping to the same themes. I.E 
 background color, font stye and size and layout.
+Another feature I would like to add would be the ability to submit the booking / enquiry form to an actual backend. This would create a fully fuctioning online booking system 
+for the company.
 
 ## Structure  
 The structure of my project is slightly different from most others I found when carrying out research.  
@@ -61,36 +64,53 @@ fill the screen height up to 100% this encourages the user to scroll and see mor
 to make a booking or enquire about a service.
 
 ## Testing
-- Devtools
+- Devtools  
 I have carried out comprehensive testing of my project before deployment.
 I firstly used dev tools to inspect the project, this enabled me to change devices and see how it would be displayed.
-![screenshot of dev tools](assets/images/devtoolstesting.png)
 It also gave me the ability to move the screen display and check. (make the page wider/thinner taller/shorter)
-- Devices
-I then opened the project on as many devices as I could get my hands on just to double check display of the project on different devices.  
-Devices Used:
-- iphone 8
-- iphone 11
-- hp pavilion g series laptop
-- hp laptop
+
+
+
+![screenshot of dev tools](assets/images/devtoolstesting.png)
+
+# Devices
+  I then opened the project on as many devices as I could get my hands on just to double check display of the project on different devices.  
+  Devices Used:
+            - iphone 8
+            - iphone 11
+            - hp pavilion g series laptop
+        - hp laptop
 With the project opened on each device I checked:  
-All images loaded correctly  
-All links worked correctly  
-Load time of page  
-Form works correctly (submitting correct data)  
-Modal displays correctly  
+  - All images loaded correctly
+       All images appeared correctly (not stretched out or squashed up)  
+  - All links worked correctly  
+       All links navigate to correct section  
+       All social links open in new window
+  - Load time of page  
+       When page refreshed the load time is not too long to avoid a bad user experience
+  - Form works correctly (submitting correct data)  
+       When form filled out the correct data was submitted  
+       The field required warning works correctly on each field    
+  - Modal displays correctly  
+       Modal displays and allows user interaction
+       Submits the correct enquiry data
 
 
 ## Built Width:
 - Bootstrap 4 (v4)  
+https://getbootstrap.com/  
 Used for initial layout before customizing to my exact needs requirements.
 - Google Fonts  
+https://fonts.google.com/  
 Fonts imported to give the exact presentation required
 - Font Awesome  
+https://fontawesome.com/  
 Used to import various icons throughout the project
 - Git Hub  
+https://github.com/  
 Used for creating repository, storing code and deploying project.
 - Git Pod  
+https://www.gitpod.io/  
 Used to create code, edit code and version control.
 
 ## Problems Encountered:
@@ -102,29 +122,48 @@ Another problem I have encountered was when the project was vieved on a mobile d
 This problem was resolved by using media queries to hide some reviews when on mobile view. i.e Only displaying three reviews on mobile view,  
 whereas six will be displayed on desktop view.  
 
-While using a Bootstrap navigation bar code I encountered a problem where when viewed on mobile view the color of the nav icon would clash with the background color.  
-I overrode the Bootstrap CSS in my own CSS to change the color of the icon to white.
+While using a Bootstrap navigation bar code I encountered a problem where when viewed on mobile view the color of the nav icon would clash with the background color. I overrode the Bootstrap CSS in my own CSS to change the color of the icon to white.
 
-## User stories  
-- As a potential new customer to the website I want to read about avaliable services so I can choose a service to book.
+# User stories  
+#### As a potential new visitor to the website I want to read about the different levels of avaliable services so I can choose a service to book.  
+Screenshot shows dedicated section to the different levels of service provided by the company.  
+
 ![screenshot of avaliable services](assets/images/avaliable-services.png)
-- As a potential new cusotmer to the website I want to find the booking section so I can book a service.
+#### As a potential new visitor to the website I want to find the booking section so I can book a service.  
+Screenshot shows a dedicated section for the online booking form, with link in navigation bar to find section fast.  
+
 ![screenshot of booking section](assets/images/booking-section.png)
-- As a potential new customer to the website I want to read about previous customers experiences so I can decide to use the company or not.
+#### As a potential new customer to the website I want to read about previous customers experiences so I can decide to use the company or not.  
+Screenshot shows dedicated section to previous customer reviews, with link in navigation bar to find section fast.  
+
 ![screenshot of reviews section](assets/images/review-section.png)
-- As a new user of the website I want to be able to navigate the project easiy and quickly to find information I need so I can contact the company.
+#### As a new user of the website I want to be able to navigate the project easiy and quickly to find information I need so I can contact the company.  
+Screenshot shows the navigation bar found at the top of the home page for good user experience.  
+
 ![screenshot of navigation](assets/images/navigation.png)
-- As a returning user / customer I want to find contact information quickly so I can arrange a booking fast without scrolling.
+#### As a returning user / customer I want to find contact information quickly so I can arrange a booking fast without scrolling.  
+Screenshot shows contact information in the top left hand corner to enable the user to quickly see the contact information.  
+
 ![screenshot of contact info](assets/images/contact.png)
-- As a potential customer I want to see images of previous work carried out so I can be sure to trust this company.
+#### As a potential customer I want to see images of previous work carried out so I can be sure to trust this company.  
+Screenshot shows a dedicated section to an image gallery of previous work carried out.  
+
 ![screenshot of gallery section](assets/images/gallery.png)
-- As a vehicle owner I want to follow the company on social media so I can keep up to date.
-![screenshot of social links](asstes/images/social.png)
-- As a customer I want to enquire online fast so I can get my booking arranged.
+#### As a vehicle owner I want to follow the company on social media so I can keep up to date.  
+Screenshot shows social media links to allow the user to quickly find the company on social media.  
+
+![screenshot of social links](assets/images/social.png)
+#### As a customer I want to enquire online fast so I can get my booking arranged.  
+Screenshot shows a enquire button on the home page as soon as the page loads to enable the user to quickly enquire.  
+
 ![screenshot of enquire button](assets/images/enquirebutton.png)
-- As a customer I want to be able to sign up to a news letter so I can keep up to date with the company.
+#### As a customer I want to be able to sign up to a news letter so I can keep up to date with the company.  
+Screenshot shows a news letter sign up form to enable the user to sign up to a mail listing.  
+
 ![screenshot of signup](assets/images/signup.png)
-- As a car owner I want to know what else the company can offer me so I can choose to use them.
+#### As a car owner I want to know what else the company can offer me so I can choose to use them.  
+Screenshot shows a dedicated section to the other services offered by the company.  
+
 ![screenshot of training](assets/images/training.png)
 
 
