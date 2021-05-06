@@ -673,6 +673,20 @@ li.nav-item{
     }
 }
 
+@media only screen and (max-width:780px){
+    .training-cards-one{
+        margin-right:auto;
+        margin-left:auto;
+        margin:auto;
+    }
+}
+
+@media only screen and (max-width:989px){
+    .right-top-margin{
+        margin-top:2.6rem;
+    }
+}
+
 
 
 
