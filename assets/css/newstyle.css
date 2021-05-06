@@ -76,21 +76,13 @@ header{
     padding-left:0.5rem;
 }
 
-.top-link:hover::after{
-	content: '';
-	display:block;
-	width:0;
-	height:2px;
-	transition: width .3s;
-	background:white;
+li.nav-item a:hover{
+    border-bottom:2px solid white;
 }
 
-.top-link:hover::after{
-     width:100%;
-	 transition:width .3s;
+li.nav-item{
+    height:42px;
 }
- 
-
 
 /**************************************************************************** hero image*/
 
