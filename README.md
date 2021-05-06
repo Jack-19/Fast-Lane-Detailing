@@ -178,7 +178,30 @@ To contribute to this project follow these steps:
 5. Create a pull request.
 Alternatively see the documentation on GitHub.
 
+## Deployment
+ To deploy this project in Github pages from the repository https://github.com/Jack-19/milestoneproject-car in Github:  
+ - Login to Github  
+ - Choose correct repository (Jack-19/milestoneproject-car)   
+ - Next select settings from the top of the page  
+ - Find Github pages  
+ - click source drop down menu  
+ - Select master branch  
+ - Once master branch is selected the project is now deployed  
+ - Scroll back to Github pages to find the website link  
+     (https://jack-19.github.io/milestoneproject-car/)
 
+
+## Run project locally
+ #### A Githubaccount will be required
+ #### Use a supported browser
+
+   1. Add Gitpod browser extention
+   2. Restart browser
+   3. Log on to Gitpod
+   4. Find the project on Git Hub
+   5. This will open Gitpod with code to allow you to work locally
+
+   
 ## Credits:
 - Bootstrap
 - Code Institute
