@@ -45,6 +45,57 @@ will not lose any customers due to not being able to use the navigation effectiv
 - Online enquiries  
   Submit enquiries from the home section without the need to look for enquiry section.
 
+## Home page  
+Although the project is one continous page I would describe the top section as the home page, this page contains the navigation bar at the top right
+hand side and the contact information on the top left hand size. It also contains my hero image as well as the company name, a brief description of what they do and an enquire button.
+It was important to give the user as much information as possible as soon as possible to provide a good user experience. The layout of the home page also
+makes the user want to scroll down to see more information or details.  
+
+## About us  
+The about us section is a very brief desription of the company and what they have to offer. This section was keep brief to provide a good user experience, rather tan fill the
+page with text. This section also displays four images when viewed on a desktop device, two images on a tablet device and no images on mobile view.
+
+
+## Valeting Packages  
+This section shows the different valeting packages the company has to offer. The services are displayed via bootstrap cards in order to present the information clearly. On a desktop device 
+the cards are displayed three wide, two wide with one centered underneath on tablet and one stacked on top of another on mobile view.
+
+## Detailing Packages  
+This section shows the different detailing packages the company has to offer. The services are displayed via bootstrap cards to show the information clearly.
+The cards are displayed three wide on desktop device, two wide with one underneath on tablet and one on top of each other on mobile view.  
+
+## New Vehicle Packages  
+This section shows the different packages the company has to offer for new vehicles. The services are displayed via bootstrap cards in order to display the information clearly.
+The cards are displayed three wide on desktop view, two wide with one underneath on tablet view and one of top of each other on mobile view.  
+
+## Training  
+This section shows the different training packages the company has to offer. This is an extra service provided by the company other than car cleaning.
+The infomation on each training course is displayed via bootstrap cards to show information clearly. The cards are displayed three wide on a desktop device
+, two wide on a tablet device and one on top of each other on mobile view.  
+
+## Booking request  
+This section allows the user to make a booking online. Although the form is set up to transfer information to the code industry dump it could be set up to an
+database to professionally make bookings online. The form has a validator to enusre all required fields are filled out and are filled out with the correct information.
+ i.e email address contains @.
+
+ ## Our Team  
+ This sectin allows the user to see some of the employees at the company. This will create a feel of trust and therefore a good user experience.
+ The team members are displayed via bootstrap cards. On a desktop device they are displayed three wide, two wide with one underneath on a tablet and 
+ one on top of each other on mobile view.
+
+ ## Our Gallery  
+ This section is to allow the user to see images of previous work carried out, again to gain trust and therefore a good user experience.
+ The gallery is laid out this way because when carrying out research on other detailing companys they all used a similar display. The images are all displayed responsively
+ depending on which device/ screen size you are using.
+
+ ## Reviews  
+ This section allows the user to see reviews from previous customers, this creates a feel of trust and therefore a good user experience.
+ By having good reviews on the website it will encourage potential customers to make a booking, therefore increasing the number of bookings.
+
+ ## Footer  
+ This section using a bootstrap footer in order to create a professional end to the website. Its contains contact information, social media links
+ and a email news letter sign up. This sign up is again linked to the code Institute form dump site, however this could easily be set up to a database.
+
 ## Featesures To Add
 As part of this project I created a Bootstrap courosel with four images, links and a brief description. I have since decided to leave it out of this project  
 due to it not fitting in correctly with the flow of the page. For now I have removed the courosel so it will not be displayed, however I beileve it is a   
@@ -165,59 +216,6 @@ Screenshot shows a news letter sign up form to enable the user to sign up to a m
 Screenshot shows a dedicated section to the other services offered by the company.  
 
 ![screenshot of training](assets/images/training.png)
-
-## Home page  
-Although the project is one continous page I would describe the top section as the home page, this page contains the navigation bar at the top right
-hand side and the contact information on the top left hand size. It also contains my hero image as well as the company name, a brief description of what they do and an enquire button.
-It was important to give the user as much information as possible as soon as possible to provide a good user experience. The layout of the home page also
-makes the user want to scroll down to see more information or details.  
-
-## About use  
-The about us section is a very brief desription of the company and what they have to offer. This section was keep brief to provide a good user experience, rather tan fill the
-page with text. This section also displays four images when viewed on a desktop device, two images on a tablet device and no images on mobile view.
-
-
-## Valeting Packages  
-This section shows the different valeting packages the company has to offer. The services are displayed via bootstrap cards in order to present the information clearly. On a desktop device 
-the cards are displayed three wide, two wide with one centered underneath on tablet and one stacked on top of another on mobile view.
-
-## Detailing Packages  
-This section shows the different detailing packages the company has to offer. The services are displayed via bootstrap cards to show the information clearly.
-The cards are displayed three wide on desktop device, two wide with one underneath on tablet and one on top of each other on mobile view.  
-
-## New Vehicle Packages  
-This section shows the different packages the company has to offer for new vehicles. The services are displayed via bootstrap cards in order to display the information clearly.
-The cards are displayed three wide on desktop view, two wide with one underneath on tablet view and one of top of each other on mobile view.  
-
-## Training  
-This section shows the different training packages the company has to offer. This is an extra service provided by the company other than car cleaning.
-The infomation on each training course is displayed via bootstrap cards to show information clearly. The cards are displayed three wide on a desktop device
-, two wide on a tablet device and one on top of each other on mobile view.  
-
-## Booking request  
-This section allows the user to make a booking online. Although the form is set up to transfer information to the code industry dump it could be set up to an
-database to professionally make bookings online. The form has a validator to enusre all required fields are filled out and are filled out with the correct information.
- i.e email address contains @.
-
- ## Our Team  
- This sectin allows the user to see some of the employees at the company. This will create a feel of trust and therefore a good user experience.
- The team members are displayed via bootstrap cards. On a desktop device they are displayed three wide, two wide with one underneath on a tablet and 
- one on top of each other on mobile view.
-
- ## Our Gallery  
- This section is to allow the user to see images of previous work carried out, again to gain trust and therefore a good user experience.
- The gallery is laid out this way because when carrying out research on other detailing companys they all used a similar display. The images are all displayed responsively
- depending on which device/ screen size you are using.
-
- ## Reviews  
- This section allows the user to see reviews from previous customers, this creates a feel of trust and therefore a good user experience.
- By having good reviews on the website it will encourage potential customers to make a booking, therefore increasing the number of bookings.
-
- ## Footer  
- This section using a bootstrap footer in order to create a professional end to the website. Its contains contact information, social media links
- and a email news letter sign up. This sign up is again linked to the code Institute form dump site, however this could easily be set up to a database.
-
-
 
 
 ## Contributing:
