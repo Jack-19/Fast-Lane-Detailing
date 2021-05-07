@@ -166,6 +166,28 @@ Screenshot shows a dedicated section to the other services offered by the compan
 
 ![screenshot of training](assets/images/training.png)
 
+## Home page  
+Although the project is one continous page I would describe the top section as the home page, this page contains the navigation bar at the top right
+hand side and the contact information on the top left hand size. It also contains my hero image as well as the company name, a brief description of what they do and an enquire button.
+It was important to give the user as much information as possible as soon as possible to provide a good user experience. The layout of the home page also
+makes the user want to scroll down to see more information or details.  
+
+## About use  
+The about us section is a very brief desription of the company and what they have to offer. This section was keep brief to provide a good user experience, rather tan fill the
+page with text. This section also displays four images when viewed on a desktop device, two images on a tablet device and no images on mobile view.
+
+
+## Valeting Packages  
+This section shows the different valeting packages the company has to offer. The services are displayed via bootstrap cards in order to present the information clearly. On a desktop device 
+the cards are displayed three wide, two wide with one centered underneath on tablet and one stacked on top of another on mobile view.
+
+## Detailing Packages  
+This section shows the different detailing packages the company has to offer. The services are displayed via bootstrap cards to show the information clearly.
+The cards are displayed three wide on desktop device, two wide with one underneath on tablet and one on top of each other on mobile view.  
+
+## New Vehicle Packages  
+This section shows the different packages the company has to offer for new vehicles. The services are displayed via bootstrap cards in order to display the information clearly.
+The cards are displayed three wide on desktop view, two wide with one underneath on tablet view and one of top of each other on mobile view.  
 
 
 
