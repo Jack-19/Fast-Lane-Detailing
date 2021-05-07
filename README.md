@@ -189,6 +189,35 @@ The cards are displayed three wide on desktop device, two wide with one undernea
 This section shows the different packages the company has to offer for new vehicles. The services are displayed via bootstrap cards in order to display the information clearly.
 The cards are displayed three wide on desktop view, two wide with one underneath on tablet view and one of top of each other on mobile view.  
 
+## Training  
+This section shows the different training packages the company has to offer. This is an extra service provided by the company other than car cleaning.
+The infomation on each training course is displayed via bootstrap cards to show information clearly. The cards are displayed three wide on a desktop device
+, two wide on a tablet device and one on top of each other on mobile view.  
+
+## Booking request  
+This section allows the user to make a booking online. Although the form is set up to transfer information to the code industry dump it could be set up to an
+database to professionally make bookings online. The form has a validator to enusre all required fields are filled out and are filled out with the correct information.
+ i.e email address contains @.
+
+ ## Our Team  
+ This sectin allows the user to see some of the employees at the company. This will create a feel of trust and therefore a good user experience.
+ The team members are displayed via bootstrap cards. On a desktop device they are displayed three wide, two wide with one underneath on a tablet and 
+ one on top of each other on mobile view.
+
+ ## Our Gallery  
+ This section is to allow the user to see images of previous work carried out, again to gain trust and therefore a good user experience.
+ The gallery is laid out this way because when carrying out research on other detailing companys they all used a similar display. The images are all displayed responsively
+ depending on which device/ screen size you are using.
+
+ ## Reviews  
+ This section allows the user to see reviews from previous customers, this creates a feel of trust and therefore a good user experience.
+ By having good reviews on the website it will encourage potential customers to make a booking, therefore increasing the number of bookings.
+
+ ## Footer  
+ This section using a bootstrap footer in order to create a professional end to the website. Its contains contact information, social media links
+ and a email news letter sign up. This sign up is again linked to the code Institute form dump site, however this could easily be set up to a database.
+
+
 
 
 ## Contributing:
